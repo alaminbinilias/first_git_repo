@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+div{
+    background-color:burlywood;
+    height: 100px;
+    width: 100%;
+}
+
+div p{
+    padding: 10px;
+    text-align: justify;
+}
